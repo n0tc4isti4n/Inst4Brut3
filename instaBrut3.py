@@ -1700,7 +1700,7 @@ total_runtime = (
 print()
 print()
 print("=" * 70)
-print("                 AUTHLAB SECURITY ASSESSMENT")
+print("                 INSTAGRAM PASSWORD ASSESSMENT")
 print("=" * 70)
 
 print(
